@@ -1,3 +1,3 @@
 # ConTeXt-Support-Files
 
-An updated minion-math.lfg and typescript file for Minion Math.
+Updated minion-math.lfg and minion-math.mkiv files for Minion Math v1.026
